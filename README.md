@@ -2,7 +2,7 @@
 
 The gridded climate layers for the Weather history map
 ([mkerrn/lyn](https://github.com/mkerrn/lyn)), served by GitHub Pages from
-`https://mkerrn.github.io/lyn-data/wx/`. They are kept here, not in the map's
+`https://mkerrn.github.io/weatherdata/wx/`. They are kept here, not in the map's
 repository, because all the years come to several hundred MB.
 
 `wx/<layer>-<area>-<year>.bin.gz` holds one year and `-mean` the mean over
